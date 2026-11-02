@@ -1,0 +1,6 @@
+{
+  "name": "AcentoLibro - Lector de PDF con Selección de Acento",
+  "description": "Lector y reproductor de audiolibros PDF interactivo con voces naturales, selección de acentos regionales de habla hispana e internacional, resaltado sincrónico y diseño editorial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
